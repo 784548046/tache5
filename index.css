@@ -119,10 +119,17 @@ nav{
     width: 80px;
     height: 20px;
     border-radius: 10px;
+    margin-left: 170px;
 }
 .section2 h2{
     font-weight: bolder;
     font-size: 50px;
+    margin-left: 170px;
+    margin-top: 5px;
+}
+.section2 h4{
+    margin-left: 170px;
+    margin-top: 5px;
 }
 .section2 ul{
     display: flex;
